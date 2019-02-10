@@ -7,14 +7,14 @@ Lippmeier.
 ## Installation
 
 ```
-$ futhark-pkg add github.com/athas/matte
-$ futhark-pkg sync
+$ futhark pkg add github.com/athas/matte
+$ futhark pkg sync
 ```
 
 ## Usage example
 
 ```
-$ futharki
+$ futhark repl
 > import "lib/github.com/athas/matte/colour"
 > argb.mix 0.5 argb.white 0.5 argb.black
 -4934476i32
