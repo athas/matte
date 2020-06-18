@@ -17,5 +17,5 @@ $ futhark pkg sync
 $ futhark repl
 > import "lib/github.com/athas/matte/colour"
 > argb.mix 0.5 argb.white 0.5 argb.black
--4934476i32
+4290032820u32
 ```
