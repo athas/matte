@@ -1,4 +1,4 @@
-# Colour library for Futhark [![Build Status](https://travis-ci.org/athas/matte.svg?branch=master)](https://travis-ci.org/athas/matte) [![Documentation](https://futhark-lang.org/pkgs/github.com/athas/matte/status.svg)](https://futhark-lang.org/pkgs/github.com/athas/matte/latest/)
+# Colour library for Futhark [![CI](https://github.com/athas/matte/workflows/CI/badge.svg)](https://github.com/athas/matte/actions) [![Documentation](https://futhark-lang.org/pkgs/github.com/athas/matte/status.svg)](https://futhark-lang.org/pkgs/github.com/athas/matte/latest/)
 
 Colour manipulation functions adapted from the
 [Gloss](https://hackage.haskell.org/package/gloss) library by Ben
